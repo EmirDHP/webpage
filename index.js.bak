@@ -8,7 +8,7 @@ var students = [
             month : 'November',
             day : 9
         },
-        career : 'IDYGS'
+        Career : 'IDYGS'
     },
     {
 		lname : 'Hinojosa',
